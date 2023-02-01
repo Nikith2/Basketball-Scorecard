@@ -1,0 +1,67 @@
+body {
+   
+background-image: linear-gradient(white,black);
+background-size:cover;
+margin: 0;
+    
+height:100vh;
+text-align: center;
+
+}
+
+
+h1{
+text-decoration:underline;
+text-decoration-color:white;
+
+}
+.score {
+   
+background: #0a0001;
+    
+font-size: 90px;
+    
+color: #F94F6D;
+    
+width: 120px;
+    
+margin: 20px;
+    
+border-radius:10px;
+
+}
+
+
+.container {
+    
+display: flex;
+    
+justify-content: space-around;
+
+
+background: white;
+    
+max-width: 40%;
+
+height:40%;    
+margin: auto;
+    
+border: 10px solid black;
+    
+border-radius: 10px ;
+
+
+}
+
+
+button {
+      
+color:black;
+background: none;
+    
+border-radius:10px;
+
+}
+
+
+
